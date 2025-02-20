@@ -1,0 +1,4 @@
+fix sparkle = 25
+fix glossy = 3.141596
+chatter message = "Hello, Barbie!" 
+askqueen userInput # Taking input
